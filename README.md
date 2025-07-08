@@ -12,7 +12,7 @@ The Agentic Platform is a hypothetical tool designed to boost e-commerce perform
 This project serves as a proof-of-concept for retail stakeholders, proving the platform’s value through data-driven insights.
 
 Features
-- Bar Chart: Displays the average orders per customer (Before: 3.5, After: 5.2), showing a 48.6% growth.
-- Line Chart: Tracks the average brands bought per customer (Before: 1.8, After: 3.5), a 1.9x increase.
-- Pie Charts: Compares customer segment distributions (Before: 10% VIP, After: 35% VIP), a 3.5x VIP growth factor.
-- Key Metrics: Highlights order growth (48.6%), brand diversity (1.9x), and VIP growth (3.5x).
+- Bar Chart: Displays the average orders per customer (Before: 3.16, After: 4.76), showing a 50.6% growth.
+- Line Chart: Tracks the average brands bought per customer (Before: 2.5, After: 3.85), a 1.5x increase.
+- Pie Charts: Compares customer segment distributions (Before: 7% VIP, After: 10% VIP), a 1.42x VIP growth factor.
+- Key Metrics: Highlights order growth (50.6%), brand diversity (1.5x), and VIP growth (1.42x).
